@@ -5,11 +5,11 @@ Heart disease prevention is critical, and data-driven prediction systems can sig
 
 Algorithms Used:
 
-1. Logistic Regression
-2. Naive Bayes
-3. Support Vector Machine (Linear)
-4. K-Nearest Neighbors
-5. Decision Tree
-6. Random Forest
-7. XGBoost
-8. Artificial Neural Network (1 Hidden Layer, Keras)
+Logistic Regression
+Naive Bayes
+Support Vector Machine (Linear)
+K-Nearest Neighbors
+Decision Tree
+Random Forest
+XGBoost
+Artificial Neural Network (1 Hidden Layer, Keras)
